@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import ScrollBox from "../src/class/ScrollBox"
+import ScrollBox from "./classStuff/ScrollBox"
 
 class App extends Component {
   render() {

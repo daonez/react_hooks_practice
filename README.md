@@ -6,3 +6,4 @@
 - useMemo
 - useRef
 - custom Hooks
+- Context API
